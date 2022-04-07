@@ -1,0 +1,42 @@
+body{
+    background-color: #36191E;
+}
+main h2{ 
+    line-height: 40px;
+    font-family: monospace;
+    color: #fff;
+    }
+    main h3{
+        font-family: monospace;
+        color: #fff;
+        line-height: 40px;
+    }
+    main img{
+        width: 550px;
+        height: 400px;
+        display: block;
+        margin: auto;
+    }
+    main p{
+        text-justify:newspaper;
+        color: #fff;
+        line-height: 40px;
+    }
+    div h3{
+        text-align: center;
+        color: #fff;
+        line-height: 40px;
+    }
+    main h1{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: #fff;
+        text-align: center;
+        line-height: 40px;
+    }
+    main ul li{
+        color: #fff;
+        font-family: monospace;
+    }
+    div p{
+        text-align: center;
+    }

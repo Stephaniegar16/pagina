@@ -1,0 +1,31 @@
+body{
+    background-color: #FFD51F;
+}
+main h2{ 
+line-height: 40px;
+font-family: monospace;
+color: #243B74;
+}
+main img{
+    width: 550px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+main p{
+    text-justify: newspaper;
+    color: #243B74;
+}
+main h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #243B74;
+    text-align: center;
+}
+div p{
+    text-align: center;
+    color: #de0035;
+    font-family: monospace;
+}
+ul li{
+    color: #243B74;
+}

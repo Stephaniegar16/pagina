@@ -1,0 +1,30 @@
+body{
+    background-color: #DADADA;
+}
+main h2{ 
+    line-height: 40px;
+    font-family: monospace;
+    color: #0084D1;
+    }
+    main img{
+        width: 550px;
+        height: 400px;
+        display: block;
+        margin: auto;
+    }
+    main p{
+        text-justify: kashida;
+        color: #0084D1;
+    }
+    main h1{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #0084D1;
+        text-align: center;
+    }
+    ul li{
+        color: #0084D1;
+    }
+    div p{
+        color: #CDA434;
+        text-align: center;
+    }
